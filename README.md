@@ -1,1 +1,1 @@
-# feature-sliced_playground
+# Плейгруанда не будет :(
